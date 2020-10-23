@@ -42,3 +42,6 @@ console.log(invokeRemove);
 console.log(arrayRemove);
 // ['Knife', 'Medkit']
 
+
+
+  
